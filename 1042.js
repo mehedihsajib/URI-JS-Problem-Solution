@@ -1,6 +1,6 @@
-///////////////////////////////////
-// PROBLEM: Simple sort.
 //////////////////////////////////
+// PROBLEM: Simple sort.
+/////////////////////////////////
 
 var input = require('fs').readFileSync('/dev/stdin', 'utf8');
 var lines = input.split('\n');

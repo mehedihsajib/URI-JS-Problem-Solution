@@ -1,6 +1,6 @@
-///////////////////////////////////
-// PROBLEM: Average-3.
 //////////////////////////////////
+// PROBLEM: Average-3.
+/////////////////////////////////
 
 var input = require('fs').readFileSync('/dev/stdin', 'utf8');
 var lines = input.split('\n');
